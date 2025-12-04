@@ -1,7 +1,11 @@
 this is one.txt file.
 learning branching 
+<<<<<<< HEAD
 new for merging
 new new new new
 Bangladesh
 bd bd bd bd bd bd
 
+=======
+new for merging 
+>>>>>>> 85524336973ba7abf50c36c0fbc515f7f0986b1e
